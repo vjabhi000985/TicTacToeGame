@@ -10,14 +10,14 @@ This Java-based TicTacToe game utilizes AWT and Swing libraries to provide an in
 
 ## Screenshots
 1. *Game Start:*
-   ![Screenshot (13)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/c658d684-eced-427f-b6e6-0c88701d8cc4)
+  ![Screenshot (13)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/274ef0cb-c4e7-42b8-9532-229e70565d48)
 
-2. *In Progress:*
-  ![Screenshot (14)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/6ff89923-1692-49ad-8a67-6f0f9b4aec4f)
+3. *In Progress:*
+  ![Screenshot (14)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/9cc0a855-8342-40ca-bcf9-829a08207d8d)
 
-3. *Game Over:*
-  ![Screenshot (15)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/93b2b090-d0f8-4081-875e-988a6243319c)
-![Screenshot (16)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/edc23805-0868-4569-8cc1-ac47086fd032)
+4. *Game Over:*
+  ![Screenshot (15)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/9c5ee013-659a-4143-8052-f954078b2b40)
+![Screenshot (16)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/ced2536f-376f-4424-933c-54f8f72b7c37)
 
 ## How to Play
 1. *Run the Application:*
