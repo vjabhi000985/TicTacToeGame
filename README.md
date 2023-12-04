@@ -23,8 +23,8 @@ This Java-based TicTacToe game utilizes AWT and Swing libraries to provide an in
 1. *Run the Application:*
    - Execute the `TicTacToe.java` file to start the game.
    
-2. *Enter Player Names:*
-   - Input the names of the players to personalize the gaming experience.
+2. *Choose your Side:*
+   - Either X or O
    
 3. *Make Moves:*
    - Click on the grid to make a move during your turn.
