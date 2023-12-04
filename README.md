@@ -16,8 +16,8 @@ This Java-based TicTacToe game utilizes AWT and Swing libraries to provide an in
   ![Screenshot (14)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/9cc0a855-8342-40ca-bcf9-829a08207d8d)
 
 4. *Game Over:*
-  ![Screenshot (15)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/9c5ee013-659a-4143-8052-f954078b2b40)
-![Screenshot (16)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/ced2536f-376f-4424-933c-54f8f72b7c37)
+   - *X wins* ![Screenshot (15)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/9c5ee013-659a-4143-8052-f954078b2b40)
+   - *O Wins* ![Screenshot (16)](https://github.com/vjabhi000985/TicTacToeGame/assets/46738718/ced2536f-376f-4424-933c-54f8f72b7c37)
 
 ## How to Play
 1. *Run the Application:*
