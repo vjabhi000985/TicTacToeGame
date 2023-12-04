@@ -37,7 +37,7 @@ This Java-based TicTacToe game utilizes AWT and Swing libraries to provide an in
    - Sublime Text 4
 
 ## Credits
-Developed By Pandey Abhishek Nath Roy
+Developed By *Pandey Abhishek Nath Roy*
 
 ## Code Snippet
 ```java
